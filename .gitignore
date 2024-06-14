@@ -1,0 +1,12 @@
+runs/*
+old/*
+*.png
+*.html
+.idea/*
+cache/*
+__pycache__/*
+datasets/*
+code/key.py
+training/*
+models/*
+code/__pycache__/*

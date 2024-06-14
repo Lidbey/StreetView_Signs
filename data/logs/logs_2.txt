@@ -1,0 +1,546 @@
+Epoch 1: saving model to training\cp-0001.ckpt
+66/66 [==============================] - 83s 1s/step - loss: 0.7788 - accuracy: 0.8235 - val_loss: 3.1723 - val_accuracy: 0.5942
+Epoch 2/240
+66/66 [==============================] - ETA: 0s - loss: 0.0976 - accuracy: 0.9756
+Epoch 2: saving model to training\cp-0002.ckpt
+66/66 [==============================] - 20s 304ms/step - loss: 0.0976 - accuracy: 0.9756 - val_loss: 0.3239 - val_accuracy: 0.9316
+Epoch 3/240
+66/66 [==============================] - ETA: 0s - loss: 0.0603 - accuracy: 0.9834
+Epoch 3: saving model to training\cp-0003.ckpt
+66/66 [==============================] - 21s 317ms/step - loss: 0.0603 - accuracy: 0.9834 - val_loss: 0.1463 - val_accuracy: 0.9630
+Epoch 4/240
+66/66 [==============================] - ETA: 0s - loss: 0.0461 - accuracy: 0.9878
+Epoch 4: saving model to training\cp-0004.ckpt
+66/66 [==============================] - 21s 323ms/step - loss: 0.0461 - accuracy: 0.9878 - val_loss: 0.1162 - val_accuracy: 0.9723
+Epoch 5/240
+66/66 [==============================] - ETA: 0s - loss: 0.0337 - accuracy: 0.9918
+Epoch 5: saving model to training\cp-0005.ckpt
+66/66 [==============================] - 21s 319ms/step - loss: 0.0337 - accuracy: 0.9918 - val_loss: 0.1218 - val_accuracy: 0.9702
+Epoch 6/240
+66/66 [==============================] - ETA: 0s - loss: 0.0323 - accuracy: 0.9919
+Epoch 6: saving model to training\cp-0006.ckpt
+66/66 [==============================] - 22s 326ms/step - loss: 0.0323 - accuracy: 0.9919 - val_loss: 0.0898 - val_accuracy: 0.9767
+Epoch 7/240
+66/66 [==============================] - ETA: 0s - loss: 0.0236 - accuracy: 0.9948
+Epoch 7: saving model to training\cp-0007.ckpt
+66/66 [==============================] - 23s 344ms/step - loss: 0.0236 - accuracy: 0.9948 - val_loss: 0.0649 - val_accuracy: 0.9832
+Epoch 8/240
+66/66 [==============================] - ETA: 0s - loss: 0.0151 - accuracy: 0.9965
+Epoch 8: saving model to training\cp-0008.ckpt
+66/66 [==============================] - 26s 386ms/step - loss: 0.0151 - accuracy: 0.9965 - val_loss: 0.0676 - val_accuracy: 0.9809
+Epoch 9/240
+66/66 [==============================] - ETA: 0s - loss: 0.0178 - accuracy: 0.9959
+Epoch 9: saving model to training\cp-0009.ckpt
+66/66 [==============================] - 25s 380ms/step - loss: 0.0178 - accuracy: 0.9959 - val_loss: 0.0602 - val_accuracy: 0.9877
+Epoch 10/240
+66/66 [==============================] - ETA: 0s - loss: 0.0130 - accuracy: 0.9970
+Epoch 10: saving model to training\cp-0010.ckpt
+66/66 [==============================] - 26s 386ms/step - loss: 0.0130 - accuracy: 0.9970 - val_loss: 0.0454 - val_accuracy: 0.9893
+Epoch 11/240
+66/66 [==============================] - ETA: 0s - loss: 0.0097 - accuracy: 0.9976
+Epoch 11: saving model to training\cp-0011.ckpt
+66/66 [==============================] - 26s 394ms/step - loss: 0.0097 - accuracy: 0.9976 - val_loss: 0.0480 - val_accuracy: 0.9881
+Epoch 12/240
+66/66 [==============================] - ETA: 0s - loss: 0.0117 - accuracy: 0.9973
+Epoch 12: saving model to training\cp-0012.ckpt
+66/66 [==============================] - 26s 388ms/step - loss: 0.0117 - accuracy: 0.9973 - val_loss: 0.0583 - val_accuracy: 0.9872
+Epoch 13/240
+66/66 [==============================] - ETA: 0s - loss: 0.0100 - accuracy: 0.9977
+Epoch 13: saving model to training\cp-0013.ckpt
+66/66 [==============================] - 25s 384ms/step - loss: 0.0100 - accuracy: 0.9977 - val_loss: 0.0540 - val_accuracy: 0.9895
+Epoch 14/240
+66/66 [==============================] - ETA: 0s - loss: 0.0061 - accuracy: 0.9984
+Epoch 14: saving model to training\cp-0014.ckpt
+66/66 [==============================] - 26s 385ms/step - loss: 0.0061 - accuracy: 0.9984 - val_loss: 0.0478 - val_accuracy: 0.9907
+Epoch 15/240
+66/66 [==============================] - ETA: 0s - loss: 0.0076 - accuracy: 0.9979
+Epoch 15: saving model to training\cp-0015.ckpt
+66/66 [==============================] - 25s 371ms/step - loss: 0.0076 - accuracy: 0.9979 - val_loss: 0.0468 - val_accuracy: 0.9902
+Epoch 16/240
+66/66 [==============================] - ETA: 0s - loss: 0.0089 - accuracy: 0.9980
+Epoch 16: saving model to training\cp-0016.ckpt
+66/66 [==============================] - 25s 373ms/step - loss: 0.0089 - accuracy: 0.9980 - val_loss: 0.0516 - val_accuracy: 0.9891
+Epoch 17/240
+66/66 [==============================] - ETA: 0s - loss: 0.0062 - accuracy: 0.9983
+Epoch 17: saving model to training\cp-0017.ckpt
+66/66 [==============================] - 25s 378ms/step - loss: 0.0062 - accuracy: 0.9983 - val_loss: 0.0470 - val_accuracy: 0.9919
+Epoch 18/240
+66/66 [==============================] - ETA: 0s - loss: 0.0061 - accuracy: 0.9984
+Epoch 18: saving model to training\cp-0018.ckpt
+66/66 [==============================] - 25s 382ms/step - loss: 0.0061 - accuracy: 0.9984 - val_loss: 0.0526 - val_accuracy: 0.9902
+Epoch 19/240
+66/66 [==============================] - ETA: 0s - loss: 0.0046 - accuracy: 0.9984
+Epoch 19: saving model to training\cp-0019.ckpt
+66/66 [==============================] - 25s 369ms/step - loss: 0.0046 - accuracy: 0.9984 - val_loss: 0.0470 - val_accuracy: 0.9916
+Epoch 20/240
+66/66 [==============================] - ETA: 0s - loss: 0.0043 - accuracy: 0.9988
+Epoch 20: saving model to training\cp-0020.ckpt
+66/66 [==============================] - 26s 395ms/step - loss: 0.0043 - accuracy: 0.9988 - val_loss: 0.0415 - val_accuracy: 0.9909
+Epoch 21/240
+66/66 [==============================] - ETA: 0s - loss: 0.0043 - accuracy: 0.9987
+Epoch 21: saving model to training\cp-0021.ckpt
+66/66 [==============================] - 26s 391ms/step - loss: 0.0043 - accuracy: 0.9987 - val_loss: 0.0396 - val_accuracy: 0.9928
+Epoch 22/240
+66/66 [==============================] - ETA: 0s - loss: 0.0033 - accuracy: 0.9992
+Epoch 22: saving model to training\cp-0022.ckpt
+66/66 [==============================] - 26s 394ms/step - loss: 0.0033 - accuracy: 0.9992 - val_loss: 0.0465 - val_accuracy: 0.9907
+Epoch 23/240
+66/66 [==============================] - ETA: 0s - loss: 0.0026 - accuracy: 0.9993
+Epoch 23: saving model to training\cp-0023.ckpt
+66/66 [==============================] - 27s 408ms/step - loss: 0.0026 - accuracy: 0.9993 - val_loss: 0.0463 - val_accuracy: 0.9900
+Epoch 24/240
+66/66 [==============================] - ETA: 0s - loss: 0.0032 - accuracy: 0.9991
+Epoch 24: saving model to training\cp-0024.ckpt
+66/66 [==============================] - 27s 408ms/step - loss: 0.0032 - accuracy: 0.9991 - val_loss: 0.0401 - val_accuracy: 0.9930
+Epoch 25/240
+66/66 [==============================] - ETA: 0s - loss: 0.0022 - accuracy: 0.9993
+Epoch 25: saving model to training\cp-0025.ckpt
+66/66 [==============================] - 27s 406ms/step - loss: 0.0022 - accuracy: 0.9993 - val_loss: 0.0384 - val_accuracy: 0.9919
+Epoch 26/240
+66/66 [==============================] - ETA: 0s - loss: 0.0023 - accuracy: 0.9992
+Epoch 26: saving model to training\cp-0026.ckpt
+66/66 [==============================] - 26s 389ms/step - loss: 0.0023 - accuracy: 0.9992 - val_loss: 0.0432 - val_accuracy: 0.9921
+Epoch 27/240
+66/66 [==============================] - ETA: 0s - loss: 0.0032 - accuracy: 0.9990
+Epoch 27: saving model to training\cp-0027.ckpt
+66/66 [==============================] - 26s 394ms/step - loss: 0.0032 - accuracy: 0.9990 - val_loss: 0.0437 - val_accuracy: 0.9937
+Epoch 28/240
+66/66 [==============================] - ETA: 0s - loss: 0.0019 - accuracy: 0.9994
+Epoch 28: saving model to training\cp-0028.ckpt
+66/66 [==============================] - 25s 383ms/step - loss: 0.0019 - accuracy: 0.9994 - val_loss: 0.0345 - val_accuracy: 0.9937
+Epoch 29/240
+66/66 [==============================] - ETA: 0s - loss: 0.0026 - accuracy: 0.9993
+Epoch 29: saving model to training\cp-0029.ckpt
+66/66 [==============================] - 26s 384ms/step - loss: 0.0026 - accuracy: 0.9993 - val_loss: 0.0388 - val_accuracy: 0.9937
+Epoch 30/240
+66/66 [==============================] - ETA: 0s - loss: 0.0024 - accuracy: 0.9993
+Epoch 30: saving model to training\cp-0030.ckpt
+66/66 [==============================] - 26s 392ms/step - loss: 0.0024 - accuracy: 0.9993 - val_loss: 0.0391 - val_accuracy: 0.9940
+Epoch 31/240
+66/66 [==============================] - ETA: 0s - loss: 0.0017 - accuracy: 0.9993
+Epoch 31: saving model to training\cp-0031.ckpt
+66/66 [==============================] - 26s 395ms/step - loss: 0.0017 - accuracy: 0.9993 - val_loss: 0.0389 - val_accuracy: 0.9930
+Epoch 32/240
+66/66 [==============================] - ETA: 0s - loss: 0.0025 - accuracy: 0.9993
+Epoch 32: saving model to training\cp-0032.ckpt
+66/66 [==============================] - 28s 418ms/step - loss: 0.0025 - accuracy: 0.9993 - val_loss: 0.0432 - val_accuracy: 0.9933
+Epoch 33/240
+66/66 [==============================] - ETA: 0s - loss: 0.0017 - accuracy: 0.9992
+Epoch 33: saving model to training\cp-0033.ckpt
+66/66 [==============================] - 28s 415ms/step - loss: 0.0017 - accuracy: 0.9992 - val_loss: 0.0446 - val_accuracy: 0.9930
+Epoch 34/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9997
+Epoch 34: saving model to training\cp-0034.ckpt
+66/66 [==============================] - 26s 391ms/step - loss: 0.0011 - accuracy: 0.9997 - val_loss: 0.0385 - val_accuracy: 0.9933
+Epoch 35/240
+66/66 [==============================] - ETA: 0s - loss: 0.0017 - accuracy: 0.9994
+Epoch 35: saving model to training\cp-0035.ckpt
+66/66 [==============================] - 27s 411ms/step - loss: 0.0017 - accuracy: 0.9994 - val_loss: 0.0491 - val_accuracy: 0.9928
+Epoch 36/240
+66/66 [==============================] - ETA: 0s - loss: 0.0019 - accuracy: 0.9995
+Epoch 36: saving model to training\cp-0036.ckpt
+66/66 [==============================] - 26s 391ms/step - loss: 0.0019 - accuracy: 0.9995 - val_loss: 0.0436 - val_accuracy: 0.9935
+Epoch 37/240
+66/66 [==============================] - ETA: 0s - loss: 0.0018 - accuracy: 0.9993
+Epoch 37: saving model to training\cp-0037.ckpt
+66/66 [==============================] - 26s 397ms/step - loss: 0.0018 - accuracy: 0.9993 - val_loss: 0.0409 - val_accuracy: 0.9935
+Epoch 38/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9996
+Epoch 38: saving model to training\cp-0038.ckpt
+66/66 [==============================] - 27s 404ms/step - loss: 0.0011 - accuracy: 0.9996 - val_loss: 0.0467 - val_accuracy: 0.9928
+Epoch 39/240
+66/66 [==============================] - ETA: 0s - loss: 0.0019 - accuracy: 0.9995
+Epoch 39: saving model to training\cp-0039.ckpt
+66/66 [==============================] - 27s 406ms/step - loss: 0.0019 - accuracy: 0.9995 - val_loss: 0.0393 - val_accuracy: 0.9944
+Epoch 40/240
+66/66 [==============================] - ETA: 0s - loss: 0.0012 - accuracy: 0.9996
+Epoch 40: saving model to training\cp-0040.ckpt
+66/66 [==============================] - 26s 395ms/step - loss: 0.0012 - accuracy: 0.9996 - val_loss: 0.0448 - val_accuracy: 0.9928
+Epoch 41/240
+66/66 [==============================] - ETA: 0s - loss: 0.0021 - accuracy: 0.9993
+Epoch 41: saving model to training\cp-0041.ckpt
+66/66 [==============================] - 26s 386ms/step - loss: 0.0021 - accuracy: 0.9993 - val_loss: 0.0412 - val_accuracy: 0.9940
+Epoch 42/240
+66/66 [==============================] - ETA: 0s - loss: 0.0016 - accuracy: 0.9995
+Epoch 42: saving model to training\cp-0042.ckpt
+66/66 [==============================] - 26s 392ms/step - loss: 0.0016 - accuracy: 0.9995 - val_loss: 0.0436 - val_accuracy: 0.9937
+Epoch 43/240
+66/66 [==============================] - ETA: 0s - loss: 0.0012 - accuracy: 0.9995
+Epoch 43: saving model to training\cp-0043.ckpt
+66/66 [==============================] - 26s 396ms/step - loss: 0.0012 - accuracy: 0.9995 - val_loss: 0.0353 - val_accuracy: 0.9928
+Epoch 44/240
+66/66 [==============================] - ETA: 0s - loss: 0.0012 - accuracy: 0.9995
+Epoch 44: saving model to training\cp-0044.ckpt
+66/66 [==============================] - 27s 401ms/step - loss: 0.0012 - accuracy: 0.9995 - val_loss: 0.0391 - val_accuracy: 0.9933
+Epoch 45/240
+66/66 [==============================] - ETA: 0s - loss: 0.0014 - accuracy: 0.9996
+Epoch 45: saving model to training\cp-0045.ckpt
+66/66 [==============================] - 27s 401ms/step - loss: 0.0014 - accuracy: 0.9996 - val_loss: 0.0421 - val_accuracy: 0.9928
+Epoch 46/240
+66/66 [==============================] - ETA: 0s - loss: 0.0012 - accuracy: 0.9997
+Epoch 46: saving model to training\cp-0046.ckpt
+66/66 [==============================] - 28s 426ms/step - loss: 0.0012 - accuracy: 0.9997 - val_loss: 0.0381 - val_accuracy: 0.9935
+Epoch 47/240
+66/66 [==============================] - ETA: 0s - loss: 0.0017 - accuracy: 0.9992
+Epoch 47: saving model to training\cp-0047.ckpt
+66/66 [==============================] - 28s 422ms/step - loss: 0.0017 - accuracy: 0.9992 - val_loss: 0.0429 - val_accuracy: 0.9930
+Epoch 48/240
+66/66 [==============================] - ETA: 0s - loss: 9.8732e-04 - accuracy: 0.9997
+Epoch 48: saving model to training\cp-0048.ckpt
+66/66 [==============================] - 27s 409ms/step - loss: 9.8732e-04 - accuracy: 0.9997 - val_loss: 0.0498 - val_accuracy: 0.9930
+Epoch 49/240
+66/66 [==============================] - ETA: 0s - loss: 0.0012 - accuracy: 0.9996
+Epoch 49: saving model to training\cp-0049.ckpt
+66/66 [==============================] - 27s 411ms/step - loss: 0.0012 - accuracy: 0.9996 - val_loss: 0.0444 - val_accuracy: 0.9923
+Epoch 50/240
+66/66 [==============================] - ETA: 0s - loss: 0.0015 - accuracy: 0.9993
+Epoch 50: saving model to training\cp-0050.ckpt
+66/66 [==============================] - 28s 425ms/step - loss: 0.0015 - accuracy: 0.9993 - val_loss: 0.0490 - val_accuracy: 0.9928
+Epoch 51/240
+66/66 [==============================] - ETA: 0s - loss: 8.6565e-04 - accuracy: 0.9999
+Epoch 51: saving model to training\cp-0051.ckpt
+66/66 [==============================] - 28s 414ms/step - loss: 8.6565e-04 - accuracy: 0.9999 - val_loss: 0.0382 - val_accuracy: 0.9942
+Epoch 52/240
+66/66 [==============================] - ETA: 0s - loss: 0.0012 - accuracy: 0.9996
+Epoch 52: saving model to training\cp-0052.ckpt
+66/66 [==============================] - 27s 411ms/step - loss: 0.0012 - accuracy: 0.9996 - val_loss: 0.0341 - val_accuracy: 0.9951
+Epoch 53/240
+66/66 [==============================] - ETA: 0s - loss: 7.6808e-04 - accuracy: 0.9998
+Epoch 53: saving model to training\cp-0053.ckpt
+66/66 [==============================] - 27s 407ms/step - loss: 7.6808e-04 - accuracy: 0.9998 - val_loss: 0.0453 - val_accuracy: 0.9928
+Epoch 54/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9997
+Epoch 54: saving model to training\cp-0054.ckpt
+66/66 [==============================] - 27s 410ms/step - loss: 0.0011 - accuracy: 0.9997 - val_loss: 0.0471 - val_accuracy: 0.9923
+Epoch 55/240
+66/66 [==============================] - ETA: 0s - loss: 0.0012 - accuracy: 0.9996
+Epoch 55: saving model to training\cp-0055.ckpt
+66/66 [==============================] - 28s 420ms/step - loss: 0.0012 - accuracy: 0.9996 - val_loss: 0.0439 - val_accuracy: 0.9940
+Epoch 56/240
+66/66 [==============================] - ETA: 0s - loss: 6.3823e-04 - accuracy: 0.9998
+Epoch 56: saving model to training\cp-0056.ckpt
+66/66 [==============================] - 28s 417ms/step - loss: 6.3823e-04 - accuracy: 0.9998 - val_loss: 0.0381 - val_accuracy: 0.9942
+Epoch 57/240
+66/66 [==============================] - ETA: 0s - loss: 0.0013 - accuracy: 0.9995
+Epoch 57: saving model to training\cp-0057.ckpt
+66/66 [==============================] - 27s 403ms/step - loss: 0.0013 - accuracy: 0.9995 - val_loss: 0.0364 - val_accuracy: 0.9953
+Epoch 58/240
+66/66 [==============================] - ETA: 0s - loss: 0.0014 - accuracy: 0.9996
+Epoch 58: saving model to training\cp-0058.ckpt
+66/66 [==============================] - 27s 407ms/step - loss: 0.0014 - accuracy: 0.9996 - val_loss: 0.0380 - val_accuracy: 0.9937
+Epoch 59/240
+66/66 [==============================] - ETA: 0s - loss: 9.4485e-04 - accuracy: 0.9997
+Epoch 59: saving model to training\cp-0059.ckpt
+66/66 [==============================] - 27s 405ms/step - loss: 9.4485e-04 - accuracy: 0.9997 - val_loss: 0.0390 - val_accuracy: 0.9937
+Epoch 60/240
+66/66 [==============================] - ETA: 0s - loss: 0.0016 - accuracy: 0.9996
+Epoch 60: saving model to training\cp-0060.ckpt
+66/66 [==============================] - 28s 421ms/step - loss: 0.0016 - accuracy: 0.9996 - val_loss: 0.0530 - val_accuracy: 0.9928
+Epoch 61/240
+66/66 [==============================] - ETA: 0s - loss: 0.0013 - accuracy: 0.9997
+Epoch 61: saving model to training\cp-0061.ckpt
+66/66 [==============================] - 29s 442ms/step - loss: 0.0013 - accuracy: 0.9997 - val_loss: 0.0429 - val_accuracy: 0.9933
+Epoch 62/240
+66/66 [==============================] - ETA: 0s - loss: 0.0013 - accuracy: 0.9996
+Epoch 62: saving model to training\cp-0062.ckpt
+66/66 [==============================] - 28s 427ms/step - loss: 0.0013 - accuracy: 0.9996 - val_loss: 0.0415 - val_accuracy: 0.9940
+Epoch 63/240
+66/66 [==============================] - ETA: 0s - loss: 8.1831e-04 - accuracy: 0.9997
+Epoch 63: saving model to training\cp-0063.ckpt
+66/66 [==============================] - 28s 414ms/step - loss: 8.1831e-04 - accuracy: 0.9997 - val_loss: 0.0434 - val_accuracy: 0.9933
+Epoch 64/240
+66/66 [==============================] - ETA: 0s - loss: 9.2324e-04 - accuracy: 0.9997
+Epoch 64: saving model to training\cp-0064.ckpt
+66/66 [==============================] - 28s 415ms/step - loss: 9.2324e-04 - accuracy: 0.9997 - val_loss: 0.0432 - val_accuracy: 0.9935
+Epoch 65/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9998
+Epoch 65: saving model to training\cp-0065.ckpt
+66/66 [==============================] - 27s 406ms/step - loss: 0.0011 - accuracy: 0.9998 - val_loss: 0.0391 - val_accuracy: 0.9928
+Epoch 66/240
+66/66 [==============================] - ETA: 0s - loss: 9.5648e-04 - accuracy: 0.9998
+Epoch 66: saving model to training\cp-0066.ckpt
+66/66 [==============================] - 29s 436ms/step - loss: 9.5648e-04 - accuracy: 0.9998 - val_loss: 0.0478 - val_accuracy: 0.9930
+Epoch 67/240
+66/66 [==============================] - ETA: 0s - loss: 0.0010 - accuracy: 0.9997
+Epoch 67: saving model to training\cp-0067.ckpt
+66/66 [==============================] - 27s 408ms/step - loss: 0.0010 - accuracy: 0.9997 - val_loss: 0.0372 - val_accuracy: 0.9946
+Epoch 68/240
+66/66 [==============================] - ETA: 0s - loss: 9.5572e-04 - accuracy: 0.9998
+Epoch 68: saving model to training\cp-0068.ckpt
+66/66 [==============================] - 27s 401ms/step - loss: 9.5572e-04 - accuracy: 0.9998 - val_loss: 0.0430 - val_accuracy: 0.9926
+Epoch 69/240
+66/66 [==============================] - ETA: 0s - loss: 8.2369e-04 - accuracy: 0.9998
+Epoch 69: saving model to training\cp-0069.ckpt
+66/66 [==============================] - 26s 394ms/step - loss: 8.2369e-04 - accuracy: 0.9998 - val_loss: 0.0518 - val_accuracy: 0.9914
+Epoch 70/240
+66/66 [==============================] - ETA: 0s - loss: 0.0014 - accuracy: 0.9997
+Epoch 70: saving model to training\cp-0070.ckpt
+66/66 [==============================] - 27s 403ms/step - loss: 0.0014 - accuracy: 0.9997 - val_loss: 0.0379 - val_accuracy: 0.9940
+Epoch 71/240
+66/66 [==============================] - ETA: 0s - loss: 0.0012 - accuracy: 0.9996
+Epoch 71: saving model to training\cp-0071.ckpt
+66/66 [==============================] - 25s 383ms/step - loss: 0.0012 - accuracy: 0.9996 - val_loss: 0.0360 - val_accuracy: 0.9949
+Epoch 72/240
+66/66 [==============================] - ETA: 0s - loss: 7.6750e-04 - accuracy: 0.9997
+Epoch 72: saving model to training\cp-0072.ckpt
+66/66 [==============================] - 25s 375ms/step - loss: 7.6750e-04 - accuracy: 0.9997 - val_loss: 0.0407 - val_accuracy: 0.9942
+Epoch 73/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9996
+Epoch 73: saving model to training\cp-0073.ckpt
+66/66 [==============================] - 25s 379ms/step - loss: 0.0011 - accuracy: 0.9996 - val_loss: 0.0466 - val_accuracy: 0.9923
+Epoch 74/240
+66/66 [==============================] - ETA: 0s - loss: 0.0012 - accuracy: 0.9995
+Epoch 74: saving model to training\cp-0074.ckpt
+66/66 [==============================] - 27s 406ms/step - loss: 0.0012 - accuracy: 0.9995 - val_loss: 0.0453 - val_accuracy: 0.9928
+Epoch 75/240
+66/66 [==============================] - ETA: 0s - loss: 7.2195e-04 - accuracy: 0.9998
+Epoch 75: saving model to training\cp-0075.ckpt
+66/66 [==============================] - 24s 368ms/step - loss: 7.2195e-04 - accuracy: 0.9998 - val_loss: 0.0419 - val_accuracy: 0.9928
+Epoch 76/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9997
+Epoch 76: saving model to training\cp-0076.ckpt
+66/66 [==============================] - 25s 373ms/step - loss: 0.0011 - accuracy: 0.9997 - val_loss: 0.0412 - val_accuracy: 0.9926
+Epoch 77/240
+66/66 [==============================] - ETA: 0s - loss: 0.0013 - accuracy: 0.9995
+Epoch 77: saving model to training\cp-0077.ckpt
+66/66 [==============================] - 25s 369ms/step - loss: 0.0013 - accuracy: 0.9995 - val_loss: 0.0435 - val_accuracy: 0.9923
+Epoch 78/240
+66/66 [==============================] - ETA: 0s - loss: 0.0016 - accuracy: 0.9995
+Epoch 78: saving model to training\cp-0078.ckpt
+66/66 [==============================] - 25s 377ms/step - loss: 0.0016 - accuracy: 0.9995 - val_loss: 0.0399 - val_accuracy: 0.9930
+Epoch 79/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9996
+Epoch 79: saving model to training\cp-0079.ckpt
+66/66 [==============================] - 29s 434ms/step - loss: 0.0011 - accuracy: 0.9996 - val_loss: 0.0380 - val_accuracy: 0.9944
+Epoch 80/240
+66/66 [==============================] - ETA: 0s - loss: 9.9302e-04 - accuracy: 0.9997
+Epoch 80: saving model to training\cp-0080.ckpt
+66/66 [==============================] - 25s 371ms/step - loss: 9.9302e-04 - accuracy: 0.9997 - val_loss: 0.0431 - val_accuracy: 0.9949
+Epoch 81/240
+66/66 [==============================] - ETA: 0s - loss: 8.0455e-04 - accuracy: 0.9997
+Epoch 81: saving model to training\cp-0081.ckpt
+66/66 [==============================] - 25s 369ms/step - loss: 8.0455e-04 - accuracy: 0.9997 - val_loss: 0.0415 - val_accuracy: 0.9937
+Epoch 82/240
+66/66 [==============================] - ETA: 0s - loss: 7.6983e-04 - accuracy: 0.9998
+Epoch 82: saving model to training\cp-0082.ckpt
+66/66 [==============================] - 25s 373ms/step - loss: 7.6983e-04 - accuracy: 0.9998 - val_loss: 0.0450 - val_accuracy: 0.9940
+Epoch 83/240
+66/66 [==============================] - ETA: 0s - loss: 8.5561e-04 - accuracy: 0.9998
+Epoch 83: saving model to training\cp-0083.ckpt
+66/66 [==============================] - 25s 370ms/step - loss: 8.5561e-04 - accuracy: 0.9998 - val_loss: 0.0436 - val_accuracy: 0.9930
+Epoch 84/240
+66/66 [==============================] - ETA: 0s - loss: 7.2970e-04 - accuracy: 0.9998
+Epoch 84: saving model to training\cp-0084.ckpt
+66/66 [==============================] - 25s 379ms/step - loss: 7.2970e-04 - accuracy: 0.9998 - val_loss: 0.0412 - val_accuracy: 0.9935
+Epoch 85/240
+66/66 [==============================] - ETA: 0s - loss: 7.7776e-04 - accuracy: 0.9996
+Epoch 85: saving model to training\cp-0085.ckpt
+66/66 [==============================] - 25s 370ms/step - loss: 7.7776e-04 - accuracy: 0.9996 - val_loss: 0.0365 - val_accuracy: 0.9946
+Epoch 86/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9996
+Epoch 86: saving model to training\cp-0086.ckpt
+66/66 [==============================] - 25s 373ms/step - loss: 0.0011 - accuracy: 0.9996 - val_loss: 0.0434 - val_accuracy: 0.9930
+Epoch 87/240
+66/66 [==============================] - ETA: 0s - loss: 5.1247e-04 - accuracy: 0.9999
+Epoch 87: saving model to training\cp-0087.ckpt
+66/66 [==============================] - 25s 369ms/step - loss: 5.1247e-04 - accuracy: 0.9999 - val_loss: 0.0422 - val_accuracy: 0.9930
+Epoch 88/240
+66/66 [==============================] - ETA: 0s - loss: 4.5598e-04 - accuracy: 0.9999
+Epoch 88: saving model to training\cp-0088.ckpt
+66/66 [==============================] - 25s 372ms/step - loss: 4.5598e-04 - accuracy: 0.9999 - val_loss: 0.0442 - val_accuracy: 0.9949
+Epoch 89/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9997
+Epoch 89: saving model to training\cp-0089.ckpt
+66/66 [==============================] - 25s 378ms/step - loss: 0.0011 - accuracy: 0.9997 - val_loss: 0.0386 - val_accuracy: 0.9942
+Epoch 90/240
+66/66 [==============================] - ETA: 0s - loss: 0.0013 - accuracy: 0.9997
+Epoch 90: saving model to training\cp-0090.ckpt
+66/66 [==============================] - 25s 375ms/step - loss: 0.0013 - accuracy: 0.9997 - val_loss: 0.0381 - val_accuracy: 0.9944
+Epoch 91/240
+66/66 [==============================] - ETA: 0s - loss: 0.0013 - accuracy: 0.9996
+Epoch 91: saving model to training\cp-0091.ckpt
+66/66 [==============================] - 24s 365ms/step - loss: 0.0013 - accuracy: 0.9996 - val_loss: 0.0466 - val_accuracy: 0.9926
+Epoch 92/240
+66/66 [==============================] - ETA: 0s - loss: 0.0014 - accuracy: 0.9998
+Epoch 92: saving model to training\cp-0092.ckpt
+66/66 [==============================] - 25s 378ms/step - loss: 0.0014 - accuracy: 0.9998 - val_loss: 0.0503 - val_accuracy: 0.9905
+Epoch 93/240
+66/66 [==============================] - ETA: 0s - loss: 7.7690e-04 - accuracy: 0.9998
+Epoch 93: saving model to training\cp-0093.ckpt
+66/66 [==============================] - 25s 372ms/step - loss: 7.7690e-04 - accuracy: 0.9998 - val_loss: 0.0455 - val_accuracy: 0.9926
+Epoch 94/240
+66/66 [==============================] - ETA: 0s - loss: 0.0012 - accuracy: 0.9997
+Epoch 94: saving model to training\cp-0094.ckpt
+66/66 [==============================] - 25s 377ms/step - loss: 0.0012 - accuracy: 0.9997 - val_loss: 0.0415 - val_accuracy: 0.9940
+Epoch 95/240
+66/66 [==============================] - ETA: 0s - loss: 0.0012 - accuracy: 0.9997
+Epoch 95: saving model to training\cp-0095.ckpt
+66/66 [==============================] - 25s 377ms/step - loss: 0.0012 - accuracy: 0.9997 - val_loss: 0.0429 - val_accuracy: 0.9933
+Epoch 96/240
+66/66 [==============================] - ETA: 0s - loss: 9.6148e-04 - accuracy: 0.9998
+Epoch 96: saving model to training\cp-0096.ckpt
+66/66 [==============================] - 25s 367ms/step - loss: 9.6148e-04 - accuracy: 0.9998 - val_loss: 0.0459 - val_accuracy: 0.9919
+Epoch 97/240
+66/66 [==============================] - ETA: 0s - loss: 8.6536e-04 - accuracy: 0.9997
+Epoch 97: saving model to training\cp-0097.ckpt
+66/66 [==============================] - 25s 377ms/step - loss: 8.6536e-04 - accuracy: 0.9997 - val_loss: 0.0403 - val_accuracy: 0.9942
+Epoch 98/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9996
+Epoch 98: saving model to training\cp-0098.ckpt
+66/66 [==============================] - 25s 369ms/step - loss: 0.0011 - accuracy: 0.9996 - val_loss: 0.0428 - val_accuracy: 0.9935
+Epoch 99/240
+66/66 [==============================] - ETA: 0s - loss: 9.4228e-04 - accuracy: 0.9998
+Epoch 99: saving model to training\cp-0099.ckpt
+66/66 [==============================] - 25s 368ms/step - loss: 9.4228e-04 - accuracy: 0.9998 - val_loss: 0.0383 - val_accuracy: 0.9942
+Epoch 100/240
+66/66 [==============================] - ETA: 0s - loss: 7.3860e-04 - accuracy: 0.9998
+Epoch 100: saving model to training\cp-0100.ckpt
+66/66 [==============================] - 25s 371ms/step - loss: 7.3860e-04 - accuracy: 0.9998 - val_loss: 0.0531 - val_accuracy: 0.9916
+Epoch 101/240
+66/66 [==============================] - ETA: 0s - loss: 8.7119e-04 - accuracy: 0.9998
+Epoch 101: saving model to training\cp-0101.ckpt
+66/66 [==============================] - 25s 376ms/step - loss: 8.7119e-04 - accuracy: 0.9998 - val_loss: 0.0406 - val_accuracy: 0.9928
+Epoch 102/240
+66/66 [==============================] - ETA: 0s - loss: 8.9245e-04 - accuracy: 0.9996
+Epoch 102: saving model to training\cp-0102.ckpt
+66/66 [==============================] - 25s 382ms/step - loss: 8.9245e-04 - accuracy: 0.9996 - val_loss: 0.0413 - val_accuracy: 0.9928
+Epoch 103/240
+66/66 [==============================] - ETA: 0s - loss: 8.1554e-04 - accuracy: 0.9998
+Epoch 103: saving model to training\cp-0103.ckpt
+66/66 [==============================] - 25s 374ms/step - loss: 8.1554e-04 - accuracy: 0.9998 - val_loss: 0.0457 - val_accuracy: 0.9937
+Epoch 104/240
+66/66 [==============================] - ETA: 0s - loss: 6.9190e-04 - accuracy: 0.9997
+Epoch 104: saving model to training\cp-0104.ckpt
+66/66 [==============================] - 25s 377ms/step - loss: 6.9190e-04 - accuracy: 0.9997 - val_loss: 0.0507 - val_accuracy: 0.9921
+Epoch 105/240
+66/66 [==============================] - ETA: 0s - loss: 6.8089e-04 - accuracy: 0.9998
+Epoch 105: saving model to training\cp-0105.ckpt
+66/66 [==============================] - 25s 375ms/step - loss: 6.8089e-04 - accuracy: 0.9998 - val_loss: 0.0412 - val_accuracy: 0.9944
+Epoch 106/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9998
+Epoch 106: saving model to training\cp-0106.ckpt
+66/66 [==============================] - 25s 374ms/step - loss: 0.0011 - accuracy: 0.9998 - val_loss: 0.0416 - val_accuracy: 0.9949
+Epoch 107/240
+66/66 [==============================] - ETA: 0s - loss: 8.0460e-04 - accuracy: 0.9997
+Epoch 107: saving model to training\cp-0107.ckpt
+66/66 [==============================] - 24s 366ms/step - loss: 8.0460e-04 - accuracy: 0.9997 - val_loss: 0.0386 - val_accuracy: 0.9940
+Epoch 108/240
+66/66 [==============================] - ETA: 0s - loss: 7.8858e-04 - accuracy: 0.9997
+Epoch 108: saving model to training\cp-0108.ckpt
+66/66 [==============================] - 25s 378ms/step - loss: 7.8858e-04 - accuracy: 0.9997 - val_loss: 0.0440 - val_accuracy: 0.9935
+Epoch 109/240
+66/66 [==============================] - ETA: 0s - loss: 8.5251e-04 - accuracy: 0.9997
+Epoch 109: saving model to training\cp-0109.ckpt
+66/66 [==============================] - 24s 364ms/step - loss: 8.5251e-04 - accuracy: 0.9997 - val_loss: 0.0482 - val_accuracy: 0.9907
+Epoch 110/240
+66/66 [==============================] - ETA: 0s - loss: 9.0264e-04 - accuracy: 0.9996
+Epoch 110: saving model to training\cp-0110.ckpt
+66/66 [==============================] - 25s 375ms/step - loss: 9.0264e-04 - accuracy: 0.9996 - val_loss: 0.0428 - val_accuracy: 0.9940
+Epoch 111/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9996
+Epoch 111: saving model to training\cp-0111.ckpt
+66/66 [==============================] - 25s 371ms/step - loss: 0.0011 - accuracy: 0.9996 - val_loss: 0.0417 - val_accuracy: 0.9933
+Epoch 112/240
+66/66 [==============================] - ETA: 0s - loss: 8.5202e-04 - accuracy: 0.9997
+Epoch 112: saving model to training\cp-0112.ckpt
+66/66 [==============================] - 25s 377ms/step - loss: 8.5202e-04 - accuracy: 0.9997 - val_loss: 0.0491 - val_accuracy: 0.9928
+Epoch 113/240
+66/66 [==============================] - ETA: 0s - loss: 8.7492e-04 - accuracy: 0.9996
+Epoch 113: saving model to training\cp-0113.ckpt
+66/66 [==============================] - 24s 365ms/step - loss: 8.7492e-04 - accuracy: 0.9996 - val_loss: 0.0438 - val_accuracy: 0.9937
+Epoch 114/240
+66/66 [==============================] - ETA: 0s - loss: 8.4090e-04 - accuracy: 0.9998
+Epoch 114: saving model to training\cp-0114.ckpt
+66/66 [==============================] - 26s 392ms/step - loss: 8.4090e-04 - accuracy: 0.9998 - val_loss: 0.0455 - val_accuracy: 0.9935
+Epoch 115/240
+66/66 [==============================] - ETA: 0s - loss: 0.0016 - accuracy: 0.9994
+Epoch 115: saving model to training\cp-0115.ckpt
+66/66 [==============================] - 26s 395ms/step - loss: 0.0016 - accuracy: 0.9994 - val_loss: 0.0402 - val_accuracy: 0.9937
+Epoch 116/240
+66/66 [==============================] - ETA: 0s - loss: 0.0016 - accuracy: 0.9996
+Epoch 116: saving model to training\cp-0116.ckpt
+66/66 [==============================] - 27s 407ms/step - loss: 0.0016 - accuracy: 0.9996 - val_loss: 0.0474 - val_accuracy: 0.9919
+Epoch 117/240
+66/66 [==============================] - ETA: 0s - loss: 5.8210e-04 - accuracy: 0.9998
+Epoch 117: saving model to training\cp-0117.ckpt
+66/66 [==============================] - 27s 407ms/step - loss: 5.8210e-04 - accuracy: 0.9998 - val_loss: 0.0403 - val_accuracy: 0.9930
+Epoch 118/240
+66/66 [==============================] - ETA: 0s - loss: 0.0015 - accuracy: 0.9994
+Epoch 118: saving model to training\cp-0118.ckpt
+66/66 [==============================] - 27s 403ms/step - loss: 0.0015 - accuracy: 0.9994 - val_loss: 0.0446 - val_accuracy: 0.9942
+Epoch 119/240
+66/66 [==============================] - ETA: 0s - loss: 0.0016 - accuracy: 0.9995
+Epoch 119: saving model to training\cp-0119.ckpt
+66/66 [==============================] - 26s 396ms/step - loss: 0.0016 - accuracy: 0.9995 - val_loss: 0.0471 - val_accuracy: 0.9921
+Epoch 120/240
+66/66 [==============================] - ETA: 0s - loss: 9.9182e-04 - accuracy: 0.9996
+Epoch 120: saving model to training\cp-0120.ckpt
+66/66 [==============================] - 27s 402ms/step - loss: 9.9182e-04 - accuracy: 0.9996 - val_loss: 0.0461 - val_accuracy: 0.9919
+Epoch 121/240
+66/66 [==============================] - ETA: 0s - loss: 0.0012 - accuracy: 0.9995
+Epoch 121: saving model to training\cp-0121.ckpt
+66/66 [==============================] - 27s 399ms/step - loss: 0.0012 - accuracy: 0.9995 - val_loss: 0.0416 - val_accuracy: 0.9923
+Epoch 122/240
+66/66 [==============================] - ETA: 0s - loss: 9.4963e-04 - accuracy: 0.9998
+Epoch 122: saving model to training\cp-0122.ckpt
+66/66 [==============================] - 30s 447ms/step - loss: 9.4963e-04 - accuracy: 0.9998 - val_loss: 0.0389 - val_accuracy: 0.9940
+Epoch 123/240
+66/66 [==============================] - ETA: 0s - loss: 6.4617e-04 - accuracy: 0.9998
+Epoch 123: saving model to training\cp-0123.ckpt
+66/66 [==============================] - 28s 425ms/step - loss: 6.4617e-04 - accuracy: 0.9998 - val_loss: 0.0360 - val_accuracy: 0.9956
+Epoch 124/240
+66/66 [==============================] - ETA: 0s - loss: 9.8103e-04 - accuracy: 0.9997
+Epoch 124: saving model to training\cp-0124.ckpt
+66/66 [==============================] - 27s 401ms/step - loss: 9.8103e-04 - accuracy: 0.9997 - val_loss: 0.0388 - val_accuracy: 0.9944
+Epoch 125/240
+66/66 [==============================] - ETA: 0s - loss: 4.6311e-04 - accuracy: 0.9999
+Epoch 125: saving model to training\cp-0125.ckpt
+66/66 [==============================] - 26s 390ms/step - loss: 4.6311e-04 - accuracy: 0.9999 - val_loss: 0.0386 - val_accuracy: 0.9942
+Epoch 126/240
+66/66 [==============================] - ETA: 0s - loss: 0.0013 - accuracy: 0.9996
+Epoch 126: saving model to training\cp-0126.ckpt
+66/66 [==============================] - 27s 401ms/step - loss: 0.0013 - accuracy: 0.9996 - val_loss: 0.0507 - val_accuracy: 0.9914
+Epoch 127/240
+66/66 [==============================] - ETA: 0s - loss: 7.4732e-04 - accuracy: 0.9997
+Epoch 127: saving model to training\cp-0127.ckpt
+66/66 [==============================] - 26s 393ms/step - loss: 7.4732e-04 - accuracy: 0.9997 - val_loss: 0.0406 - val_accuracy: 0.9946
+Epoch 128/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9996
+Epoch 128: saving model to training\cp-0128.ckpt
+66/66 [==============================] - 27s 408ms/step - loss: 0.0011 - accuracy: 0.9996 - val_loss: 0.0457 - val_accuracy: 0.9923
+Epoch 129/240
+66/66 [==============================] - ETA: 0s - loss: 0.0015 - accuracy: 0.9995
+Epoch 129: saving model to training\cp-0129.ckpt
+66/66 [==============================] - 26s 392ms/step - loss: 0.0015 - accuracy: 0.9995 - val_loss: 0.0397 - val_accuracy: 0.9940
+Epoch 130/240
+66/66 [==============================] - ETA: 0s - loss: 6.2772e-04 - accuracy: 0.9998
+Epoch 130: saving model to training\cp-0130.ckpt
+66/66 [==============================] - 27s 405ms/step - loss: 6.2772e-04 - accuracy: 0.9998 - val_loss: 0.0456 - val_accuracy: 0.9935
+Epoch 131/240
+66/66 [==============================] - ETA: 0s - loss: 9.8109e-04 - accuracy: 0.9996
+Epoch 131: saving model to training\cp-0131.ckpt
+66/66 [==============================] - 26s 388ms/step - loss: 9.8109e-04 - accuracy: 0.9996 - val_loss: 0.0427 - val_accuracy: 0.9933
+Epoch 132/240
+66/66 [==============================] - ETA: 0s - loss: 7.7052e-04 - accuracy: 0.9998
+Epoch 132: saving model to training\cp-0132.ckpt
+66/66 [==============================] - 27s 403ms/step - loss: 7.7052e-04 - accuracy: 0.9998 - val_loss: 0.0415 - val_accuracy: 0.9928
+Epoch 133/240
+66/66 [==============================] - ETA: 0s - loss: 6.9024e-04 - accuracy: 0.9998
+Epoch 133: saving model to training\cp-0133.ckpt
+66/66 [==============================] - 27s 401ms/step - loss: 6.9024e-04 - accuracy: 0.9998 - val_loss: 0.0434 - val_accuracy: 0.9944
+Epoch 134/240
+66/66 [==============================] - ETA: 0s - loss: 0.0011 - accuracy: 0.9997
+Epoch 134: saving model to training\cp-0134.ckpt
+66/66 [==============================] - 29s 431ms/step - loss: 0.0011 - accuracy: 0.9997 - val_loss: 0.0394 - val_accuracy: 0.9940
+Epoch 135/240
+66/66 [==============================] - ETA: 0s - loss: 8.8545e-04 - accuracy: 0.9996
+Epoch 135: saving model to training\cp-0135.ckpt
+66/66 [==============================] - 28s 427ms/step - loss: 8.8545e-04 - accuracy: 0.9996 - val_loss: 0.0448 - val_accuracy: 0.9933
+Epoch 136/240
+66/66 [==============================] - ETA: 0s - loss: 7.1102e-04 - accuracy: 0.9998
+Epoch 136: saving model to training\cp-0136.ckpt
+66/66 [==============================] - 29s 438ms/step - loss: 7.1102e-04 - accuracy: 0.9998 - val_loss: 0.0398 - val_accuracy: 0.9933
+Epoch 137/240
+66/66 [==============================] - ETA: 0s - loss: 7.9699e-04 - accuracy: 0.9998
+Epoch 137: saving model to training\cp-0137.ckpt
+66/66 [==============================] - 27s 400ms/step - loss: 7.9699e-04 - accuracy: 0.9998 - val_loss: 0.0429 - val_accuracy: 0.9940
